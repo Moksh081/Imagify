@@ -1,4 +1,4 @@
-Imagify
+IMAGIFY
 
 Imagify is a web application that allows users to log in and generate images from text descriptions using advanced AI. Each user receives 5 free credits upon registration to try out the image generation feature.
 
